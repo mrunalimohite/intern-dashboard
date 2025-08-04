@@ -1,0 +1,39 @@
+{
+    "user": {
+        "name": "mrunali mohite",
+        "referralCode": "mrunali2025",
+        "donations": 1200
+    },
+    "recentActivity": [
+        "You referred Rahul - \u20b9200 raised",
+        "You referred Sneha - \u20b9150 raised",
+        "Milestone reached: \u20b91000"
+    ],
+    "leaderboard": [
+        {
+            "rank": 1,
+            "name": "Priya",
+            "donations": 2200
+        },
+        {
+            "rank": 2,
+            "name": "Rahul",
+            "donations": 1800
+        },
+        {
+            "rank": 3,
+            "name": "mrunali mohite",
+            "donations": 1200
+        },
+        {
+            "rank": 4,
+            "name": "Saakshi",
+            "donations": 1000
+        },
+        {
+            "rank": 5,
+            "name": "Ali",
+            "donations": 950
+        }
+    ]
+}
