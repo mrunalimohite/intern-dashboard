@@ -11,14 +11,6 @@ Built with PHP, HTML, CSS, and JavaScript, styled to be responsive and user-frie
 - Logout Functionality
 - Responsive Design: Works on desktop and mobile
 
-## Screenshots
-**Login Page**
-![Login Screenshot](internship-task/screenshots/index.png)
-**Dashboard**
-![Dashboard Screenshot](internship-task/screenshots/Dashboard page.png)
-**Leaderboard**
-![Leaderboard Screenshot](internship-task/screenshots/leaderboard.png)
-
 ## Setup Instructions
 
 1. **Clone or Download the Repository**
