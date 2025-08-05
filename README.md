@@ -13,11 +13,11 @@ Built with PHP, HTML, CSS, and JavaScript, styled to be responsive and user-frie
 
 ## Screenshots
 **Login Page**
-![Login Screenshot](screenshots/login.png)
+![Login Screenshot](internship-task/screenshots/index.png)
 **Dashboard**
-![Dashboard Screenshot](screenshots/dashboard.png)
+![Dashboard Screenshot](internship-task/screenshots/Dashboard page.png)
 **Leaderboard**
-![Leaderboard Screenshot](screenshots/leaderboard.png)
+![Leaderboard Screenshot](internship-task/screenshots/leaderboard.png)
 
 ## Setup Instructions
 
